@@ -7,7 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="maven-javase-proj-01" />
-        <module name="maven-javaee-proj-03" />
+        <module name="maven-javaee-proj-02" />
       </profile>
     </annotationProcessing>
   </component>
